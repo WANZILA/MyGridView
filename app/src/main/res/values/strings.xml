@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyGridView</string>
+    <string name="cart">Add to Cart</string>
+</resources>
